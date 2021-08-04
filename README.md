@@ -1,5 +1,5 @@
-# Atlantis Discord Bot
-### Atlantis is a Discord Bot made for the [OwO Discord Bot](https://top.gg/bot/owo) community Atlantis
+# Night Raid Bot Discord
+### Night Raid Bot Discord made for the [OwO Discord Bot](https://top.gg/bot/owo) Night Raid OwO Community
 
 # Bot Lists
 [![Atlantis's Widget](https://api.botlist.space/widget/688911718788628496/6?rounded=true&background=017a97&shadows=true "Atlantis on botlist.space")](https://botlist.space/bot/688911718788628496?utm_source=bls&utm_medium=widget&utm_campaign=688911718788628496)
