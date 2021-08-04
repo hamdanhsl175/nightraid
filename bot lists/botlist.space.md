@@ -1,15 +1,12 @@
 # Atlantis Discord Bot
 ### Atlantis is a Discord Bot made for the [OwO Discord Bot](https://top.gg/bot/owo) community Atlantis
 
-# Bot Lists
-[![Atlantis's Widget](https://api.botlist.space/widget/688911718788628496/6?rounded=true&background=017a97&shadows=true "Atlantis on botlist.space")](https://botlist.space/bot/688911718788628496?utm_source=bls&utm_medium=widget&utm_campaign=688911718788628496)
-
-[![Atlantis's Widget](https://top.gg/api/widget/688911718788628496.svg?middlecolor=073a3b&usernamecolor=d4af37&highlightcolor=101010&topcolor=0e5c5e "Atlantis on top.gg")](https://top.gg/bot/688911718788628496)
+# Invite Atlantis to your server!
+[![Atlantis's Widget](https://api.botlist.space/widget/688911718788628496/6?rounded=true&background=017a97&shadows=true "Atlantis's Widget")](https://botlist.space/bot/688911718788628496?utm_source=bls&utm_medium=widget&utm_campaign=688911718788628496)
 
 # How do I use Atlantis?
 By adding Atlantis to your server it is enabled automatically. 
 All you need to do is use the OwO bot and you'll get reminded of when the cooldowns expire.
-
 [![](https://i.imgur.com/mLepryJ.png)]()
 
 ## Want to disable the reminder for a command?
